@@ -18,6 +18,12 @@ A API permite realizar as operações básicas de CRUD:
 - CORS
 - Postman
 
+## Repositório original
+
+Este projeto foi desenvolvido com base no projeto disponibilizado no repositório original:
+
+[Repositório original — atividade02-aula04-api](https://github.com/cortevinicius/atividade02-aula04-api)
+
 ## Endpoints
 
 | Operação | Método | Endpoint |
