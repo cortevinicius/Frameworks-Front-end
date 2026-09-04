@@ -12,14 +12,14 @@ Também foi trabalhada a organização dos projetos em diferentes repositórios 
 
 ### 🛠️ Tecnologias utilizadas
 
-- **Node.js**
-- **Express**
-- **JavaScript**
-- **React**
-- **Vercel**
-- **Render**
-- **Git e GitHub**
-- **API REST**
+- Node.js
+- Express
+- JavaScript
+- React
+- Render
+- Vercel
+- Git e GitHub
+- API REST
 
 ---
 
@@ -53,23 +53,23 @@ Também foi trabalhada a organização dos projetos em diferentes repositórios 
 
 ## 💻 Repositórios da Atividade
 
-### 🔹 API
+### 🔹 Repositório da API
 
-Repositório contendo a API desenvolvida com **Node.js e Express**, responsável por disponibilizar a rota de consulta de data e hora.
+API desenvolvida utilizando **Node.js e Express**, contendo a rota para consulta de data e hora.
 
-:contentReference[oaicite:0]{index=0}
+https://github.com/cortevinicius/API.git
 
-### 🔹 Frontend
+### 🔹 Repositório do Frontend
 
-Repositório contendo a aplicação frontend desenvolvida para **consumir a API** e apresentar a data e hora na tela.
+Aplicação frontend responsável por consumir a API e apresentar a data e hora na tela.
 
-:contentReference[oaicite:1]{index=1}
+https://github.com/cortevinicius/frontAPI.git
 
-### 🔹 Projetos da Atividade
+### 🔹 Repositório dos Projetos
 
-Repositório utilizado para reunir os projetos relacionados à atividade de APIs.
+Repositório contendo os projetos utilizados na atividade de APIs.
 
-:contentReference[oaicite:2]{index=2}
+https://github.com/cortevinicius/Atividade-04-projetos.git
 
 ---
 
