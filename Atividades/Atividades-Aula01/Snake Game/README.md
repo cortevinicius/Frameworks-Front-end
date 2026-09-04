@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Atividade — Vanilla JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📚 Resumo da Aula
 
-## Available Scripts
+Nesta aula foi desenvolvido um projeto Web utilizando **Vanilla JavaScript**, juntamente com **HTML e CSS**, sem a utilização de frameworks.
 
-In the project directory, you can run:
+O projeto foi desenvolvido no **Visual Studio Code (VS Code)**, utilizado como ambiente de desenvolvimento. Durante a atividade, foram aplicados conceitos de estruturação de páginas com HTML, estilização com CSS e programação utilizando JavaScript.
 
-### `npm start`
+Após o desenvolvimento, o projeto foi versionado utilizando **Git** e publicado em um repositório no **GitHub**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Por fim, foi realizado o **deploy da aplicação utilizando a Vercel**, disponibilizando o projeto online através de uma URL pública.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎯 Objetivos
 
-### `npm test`
+- Desenvolver uma aplicação utilizando Vanilla JavaScript;
+- Praticar HTML e CSS;
+- Utilizar JavaScript para adicionar funcionalidades à aplicação;
+- Utilizar o Visual Studio Code como ambiente de desenvolvimento;
+- Aprender a versionar projetos utilizando Git;
+- Publicar o projeto no GitHub;
+- Realizar o deploy utilizando a Vercel.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias utilizadas
 
-### `npm run build`
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- Git
+- GitHub
+- Vercel
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Deploy
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Após finalizar o desenvolvimento, a aplicação foi publicada através da **Vercel**, permitindo seu acesso por meio de uma URL pública.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## ✅ Conclusão
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A atividade permitiu colocar em prática os fundamentos do desenvolvimento Web utilizando HTML, CSS e JavaScript, além de apresentar o processo de versionamento com Git e GitHub e a publicação de uma aplicação utilizando a Vercel.

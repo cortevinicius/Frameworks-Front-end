@@ -1,38 +1,54 @@
-# vue-project
+# Projetos com Frameworks — Conclusão da Aula
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📚 Sobre a aula
 
-## Recommended IDE Setup
+Nesta aula, trabalhamos com diferentes **frameworks e tecnologias para desenvolvimento web**, colocando em prática a criação e organização de projetos utilizando **Vue, React, Angular e Vercel**.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Como atividade final, reunimos quatro projetos desenvolvidos pelos integrantes do grupo em um único repositório no GitHub, organizando cada projeto em sua respectiva pasta.
 
-## Recommended Browser Setup
+## 🚀 Projetos
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+| Projeto     | Tecnologia / Framework           |
+| ----------- | -------------------------------- |
+| **Vercel**  | Vercel, React, TypeScript e Vite |
+| **Angular** | Angular e TypeScript             |
+| **React**   | React, TypeScript e Vite         |
+| **Vue**     | Vue.js, JavaScript e Vite        |
 
-## Customize configuration
+## 📁 Organização
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Cada projeto foi colocado em uma pasta separada dentro do repositório principal:
 
-## Project Setup
+* `Vercel/`
+* `Angular/`
+* `React/`
+* `Vue/`
 
-```sh
-npm install
-```
+Também foram removidos os repositórios Git internos dos projetos para que todos pudessem fazer parte de um único repositório.
 
-### Compile and Hot-Reload for Development
+## 🎯 Objetivo
 
-```sh
-npm run dev
-```
+O objetivo da atividade foi praticar:
 
-### Compile and Minify for Production
+* Utilização de diferentes frameworks;
+* Organização de projetos em um único repositório;
+* Versionamento utilizando Git;
+* Clonagem e integração de projetos;
+* Utilização do GitHub para armazenamento e compartilhamento;
+* Trabalho colaborativo entre os integrantes.
 
-```sh
-npm run build
-```
+## ✅ Conclusão
+
+Ao final da aula, conseguimos reunir os projetos dos integrantes em um único repositório, aplicando os conhecimentos de **Git, GitHub e frameworks de desenvolvimento web**.
+
+A atividade também permitiu compreender melhor como organizar diferentes projetos dentro de um mesmo repositório e realizar o versionamento das alterações utilizando Git.
+
+## 🔗 Repositório
+
+O repositório com os quatro projetos pode ser acessado abaixo:
+
+**[Projetos Frameworks — GitHub](https://github.com/cortevinicius/projetos-frameworks.git)**
+
+---
+
+**Tecnologias trabalhadas:** Vue.js • React • Angular • Vercel • TypeScript • JavaScript • Vite • Git • GitHub
