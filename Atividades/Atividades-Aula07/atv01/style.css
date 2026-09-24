@@ -1,0 +1,160 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #222;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+}
+
+/* CABEÇALHO */
+
+.cabecalho {
+    width: 100%;
+    padding: 30px;
+    border-bottom: 4px solid #222;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.cabecalho h1 {
+    font-size: 32px;
+}
+
+.cabecalho p {
+    font-size: 18px;
+}
+
+/* CONTAINER */
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/* GALERIA */
+
+.galeria {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* CARDS */
+
+.card {
+    width: 250px;
+    min-height: 180px;
+
+    padding: 20px;
+    margin: 5px;
+
+    border: 2px solid #222;
+    border-radius: 10px;
+
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+
+    text-align: center;
+}
+
+.card h2 {
+    font-size: 24px;
+}
+
+.card p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* BOTÃO */
+
+.card button {
+    width: 100%;
+    padding: 10px 15px;
+
+    border: 2px solid #222;
+    border-radius: 6px;
+
+    background-color: #222;
+    color: white;
+
+    cursor: pointer;
+}
+
+.card button:hover {
+    background-color: #555;
+}
+
+/* RODAPÉ */
+
+.rodape {
+    margin-top: auto;
+    padding: 20px;
+
+    border-top: 2px solid #222;
+
+    text-align: center;
+}
+
+/* RESPONSIVIDADE */
+
+@media (max-width: 768px) {
+
+    .container {
+        padding: 20px;
+    }
+
+    .galeria {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .cabecalho h1 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .container {
+        padding: 10px;
+    }
+
+    .card {
+        padding: 15px;
+    }
+
+    .cabecalho {
+        padding: 20px;
+    }
+}

@@ -1,0 +1,170 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dashboard de Tecnologias</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body class="min-h-screen bg-gray-100 text-gray-800">
+
+    <!-- Cabeçalho -->
+    <header class="bg-blue-700 text-white px-6 py-5 shadow-md">
+        <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+
+            <div>
+                <h1 class="text-3xl font-bold">Tech Dashboard</h1>
+                <p class="text-blue-100 mt-1">
+                    Tecnologias utilizadas no desenvolvimento web
+                </p>
+            </div>
+
+            <button class="bg-white text-blue-700 px-5 py-2 rounded-lg font-semibold hover:bg-blue-100">
+                Meu perfil
+            </button>
+
+        </div>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main class="max-w-6xl mx-auto px-4 py-8">
+
+        <!-- Apresentação -->
+        <section class="bg-white p-6 rounded-xl shadow-sm border border-gray-200 mb-8">
+
+            <h2 class="text-2xl font-bold mb-3">
+                Tecnologias
+            </h2>
+
+            <p class="text-gray-600 leading-relaxed">
+                Conheça algumas tecnologias utilizadas no desenvolvimento
+                de aplicações web modernas.
+            </p>
+
+        </section>
+
+        <!-- Cards -->
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+            <article class="bg-white p-6 rounded-xl shadow-md border border-gray-200 hover:shadow-lg transition">
+
+                <div class="w-12 h-12 bg-orange-100 text-orange-600 rounded-lg flex items-center justify-center text-xl font-bold mb-4">
+                    H
+                </div>
+
+                <h3 class="text-xl font-bold mb-2">
+                    HTML
+                </h3>
+
+                <p class="text-gray-600 text-sm leading-relaxed mb-5">
+                    Responsável pela estrutura dos documentos web.
+                </p>
+
+                <span class="inline-block bg-orange-100 text-orange-700 px-3 py-1 rounded-full text-xs font-semibold">
+                    Estrutura
+                </span>
+
+            </article>
+
+            <article class="bg-white p-6 rounded-xl shadow-md border border-gray-200 hover:shadow-lg transition">
+
+                <div class="w-12 h-12 bg-blue-100 text-blue-600 rounded-lg flex items-center justify-center text-xl font-bold mb-4">
+                    C
+                </div>
+
+                <h3 class="text-xl font-bold mb-2">
+                    CSS
+                </h3>
+
+                <p class="text-gray-600 text-sm leading-relaxed mb-5">
+                    Responsável pela aparência e organização visual.
+                </p>
+
+                <span class="inline-block bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-xs font-semibold">
+                    Estilo
+                </span>
+
+            </article>
+
+            <article class="bg-white p-6 rounded-xl shadow-md border border-gray-200 hover:shadow-lg transition">
+
+                <div class="w-12 h-12 bg-yellow-100 text-yellow-600 rounded-lg flex items-center justify-center text-xl font-bold mb-4">
+                    JS
+                </div>
+
+                <h3 class="text-xl font-bold mb-2">
+                    JavaScript
+                </h3>
+
+                <p class="text-gray-600 text-sm leading-relaxed mb-5">
+                    Adiciona interatividade e comportamento às páginas.
+                </p>
+
+                <span class="inline-block bg-yellow-100 text-yellow-700 px-3 py-1 rounded-full text-xs font-semibold">
+                    Programação
+                </span>
+
+            </article>
+
+            <article class="bg-white p-6 rounded-xl shadow-md border border-gray-200 hover:shadow-lg transition">
+
+                <div class="w-12 h-12 bg-cyan-100 text-cyan-600 rounded-lg flex items-center justify-center text-xl font-bold mb-4">
+                    R
+                </div>
+
+                <h3 class="text-xl font-bold mb-2">
+                    React
+                </h3>
+
+                <p class="text-gray-600 text-sm leading-relaxed mb-5">
+                    Biblioteca utilizada para construção de interfaces.
+                </p>
+
+                <span class="inline-block bg-cyan-100 text-cyan-700 px-3 py-1 rounded-full text-xs font-semibold">
+                    Front-end
+                </span>
+
+            </article>
+
+        </section>
+
+        <!-- Estatísticas -->
+        <section class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
+
+            <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
+                <p class="text-3xl font-bold text-blue-700">4</p>
+                <p class="text-gray-500 mt-2">Tecnologias</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
+                <p class="text-3xl font-bold text-green-600">100%</p>
+                <p class="text-gray-500 mt-2">Front-end</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
+                <p class="text-3xl font-bold text-purple-600">30+</p>
+                <p class="text-gray-500 mt-2">Classes Tailwind</p>
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="bg-gray-900 text-gray-300 text-center py-6 mt-8">
+
+    
+
+        <p class="text-xs mt-2 text-gray-500">
+            Projeto desenvolvido com Tailwind CSS
+        </p>
+
+    </footer>
+
+</body>
+</html>
+
