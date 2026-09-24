@@ -59,12 +59,31 @@ A aplicação apresenta um dashboard com informações sobre algumas tecnologias
 
 ### Código — Parte 1
 
-![Código - Parte 1](prints/codigo-01.png)
+![Código - Parte 1](prints/Captura%20de%20tela%202026-09-24%20192019.png)
 
 ### Código — Parte 2
 
-![Código - Parte 2](prints/codigo-02.png)
+![Código - Parte 2](prints/Captura%20de%20tela%202026-09-24%20192105.png)
 
 ### Aplicação funcionando
 
-![Aplicação funcionando](prints/aplicacao.png)
+![Print adicional](prints/Captura%20de%20tela%202026-09-24%20192235.png)
+
+
+### Print adicional
+
+![Print adicional](prints/Captura%20de%20tela%202026-09-24%20192157.png)
+
+### Print adicional
+
+![Aplicação funcionando](prints/Captura%20de%20tela%202026-09-24%20192131.png)
+
+## 🔗 Repositório
+
+https://github.com/cortevinicius/atividade-frameworks-css
+
+## 👨‍💻 Autor
+
+**Vinícius Côrte**
+
+Projeto desenvolvido para a disciplina de **Frameworks Front-end**.
