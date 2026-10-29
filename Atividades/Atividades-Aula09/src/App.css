@@ -1,0 +1,86 @@
+
+#root {
+  min-height: 100vh;
+}
+
+.navbar {
+  background: #172554;
+  padding: 18px 8%;
+  display: flex;
+  gap: 24px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 900px;
+  margin: 35px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  color: #172554;
+}
+
+.card {
+  background: white;
+  padding: 24px;
+  margin: 24px 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 18px #00000012;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px;
+  margin-top: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.lista {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.usuario {
+  padding: 16px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+}
+
+.usuario h3 {
+  color: #1d4ed8;
+}
+
+.usuario a,
+.card a {
+  color: #2563eb;
+}
+
+.mensagem {
+  color: #166534;
+}
+
+.erro {
+  color: #b91c1c;
+}
